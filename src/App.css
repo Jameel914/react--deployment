@@ -1,0 +1,55 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  font-family: sans-serif;
+  margin: auto;
+  text-align: center;
+}
+h1 {
+  font-family: fantasy;
+  color: purple;
+  font-size: 30px;
+  display: inline;
+  background-color: rgb(239, 225, 227)
+}
+h3 {
+  text-decoration-line: underline;
+  color: brown;
+}
+ul {
+  list-style-type: none;
+  font-style: italic;
+}
+ol {
+  font-weight: bold;
+  list-style-position: inside;
+  font-family: 'Times New Roman', Times, serif;
+}
+li {
+  text-align: center;
+  border: 1px solid purple;
+  border-radius: 10px;
+  padding-left: 30px;
+  color: rebeccapurple;
+  background-color: thistle;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 0;
+  padding-right: 0;
+  color: blue;
+}
+img {
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
